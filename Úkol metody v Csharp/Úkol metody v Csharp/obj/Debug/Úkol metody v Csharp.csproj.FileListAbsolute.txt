@@ -1,0 +1,10 @@
+D:\Antonín Štolfa\Programování\C#\Úkol metody v Csharp\Úkol metody v Csharp\bin\Debug\Úkol metody v Csharp.exe.config
+D:\Antonín Štolfa\Programování\C#\Úkol metody v Csharp\Úkol metody v Csharp\bin\Debug\Úkol metody v Csharp.exe
+D:\Antonín Štolfa\Programování\C#\Úkol metody v Csharp\Úkol metody v Csharp\bin\Debug\Úkol metody v Csharp.pdb
+D:\Antonín Štolfa\Programování\C#\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol metody v Csharp.csproj.AssemblyReference.cache
+D:\Antonín Štolfa\Programování\C#\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol_metody_v_Csharp.Form1.resources
+D:\Antonín Štolfa\Programování\C#\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol_metody_v_Csharp.Properties.Resources.resources
+D:\Antonín Štolfa\Programování\C#\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol metody v Csharp.csproj.GenerateResource.cache
+D:\Antonín Štolfa\Programování\C#\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol metody v Csharp.csproj.CoreCompileInputs.cache
+D:\Antonín Štolfa\Programování\C#\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol metody v Csharp.exe
+D:\Antonín Štolfa\Programování\C#\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol metody v Csharp.pdb
