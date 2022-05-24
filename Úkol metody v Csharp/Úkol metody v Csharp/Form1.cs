@@ -48,32 +48,39 @@ namespace Úkol_metody_v_Csharp
             button3.ForeColor = Color.Gold;
         }
 
-        bool JePrvocislo(int vstup, int pocetDelitelu, int delitel)
+        bool JePrvocislo(bool prvocislo,int vstup, int pocetDelitelu, int delitel)
         {
-            if (vstup % delitel != 0)
+            prvocislo = false;
+            while(delitel != vstup + 1)
             {
-                pocetDelitelu++;
-                deltel++;
-                if(pocetDelitelu>2)
+                if (vstup % delitel == 0)
                 {
-                    return false;
-                    break;
+                    pocetDelitelu++;
+                    if (pocetDelitelu <= 2)
+                    {
+                        prvocislo = true;
+
+                    }
+                    else
+                    {
+                        prvocislo = false;
+                    }
                 }
+                delitel++;
             }
-            if(pocetDelitelu<=2)
-            {
-                return true;
-            }
+            return prvocislo;
         }
 
         void Prepis(TextBox textBox, ListBox listBox)
         {
+            int pocetDelitelu = 0, delitel = 1;
+            bool prvocislo = false;
             for (int i = 0; i < textBox.Lines.Length; i++)
             {
-                int cislo = Convert.ToInt32(textBox1.Lines[i]);
-                if (JePrvocislo(cislo))
+                int vstup = Convert.ToInt32(textBox1.Lines[i]);
+                if (JePrvocislo(prvocislo, vstup, pocetDelitelu, delitel))
                 {
-                    listBox1.Items.Add(cislo);
+                    listBox1.Items.Add(vstup);
                 }
             }
 
@@ -83,9 +90,10 @@ namespace Úkol_metody_v_Csharp
 
         private void button1_Click(object sender, EventArgs e)
         {
-        int pocetDelitelu = 0,delitel = 1;
+            int pocetDelitelu = 0,delitel = 1;
+            bool prvocislo = false;
             int vstup = (int)numericUpDown1.Value;
-            odpoved.Text = String.Format("Tohle číslo {0} prvočíslo!", JePrvocislo(vstup,pocetDelitelu,delitel) ? "je" : "není");
+            odpoved.Text = String.Format("Tohle číslo {0} prvočíslo!", JePrvocislo(prvocislo,vstup,pocetDelitelu,delitel) ? "je" : "není");
         }
 
         private void button3_Click(object sender, EventArgs e)

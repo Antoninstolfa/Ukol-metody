@@ -49,7 +49,7 @@ namespace Úkol_metody_v_Csharp
             this.numericUpDown1.ForeColor = System.Drawing.Color.LawnGreen;
             this.numericUpDown1.Location = new System.Drawing.Point(148, 37);
             this.numericUpDown1.Name = "numericUpDown1";
-            this.numericUpDown1.Size = new System.Drawing.Size(46, 20);
+            this.numericUpDown1.Size = new System.Drawing.Size(47, 20);
             this.numericUpDown1.TabIndex = 0;
             // 
             // label1
@@ -125,9 +125,9 @@ namespace Úkol_metody_v_Csharp
             // 
             // textBox1
             // 
-            this.textBox1.BackColor = System.Drawing.Color.Gold;
+            this.textBox1.BackColor = System.Drawing.Color.LawnGreen;
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.textBox1.ForeColor = System.Drawing.Color.LawnGreen;
+            this.textBox1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.textBox1.Location = new System.Drawing.Point(438, 68);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
@@ -136,9 +136,9 @@ namespace Úkol_metody_v_Csharp
             // 
             // listBox1
             // 
-            this.listBox1.BackColor = System.Drawing.Color.Gold;
+            this.listBox1.BackColor = System.Drawing.Color.LawnGreen;
             this.listBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.listBox1.ForeColor = System.Drawing.Color.LawnGreen;
+            this.listBox1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 16;
             this.listBox1.Location = new System.Drawing.Point(605, 68);

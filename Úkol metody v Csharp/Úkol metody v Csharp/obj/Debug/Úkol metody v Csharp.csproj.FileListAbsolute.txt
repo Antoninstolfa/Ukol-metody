@@ -8,3 +8,13 @@ D:\Antonín Štolfa\Programování\C#\Úkol metody v Csharp\Úkol metody v Cshar
 D:\Antonín Štolfa\Programování\C#\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol metody v Csharp.csproj.CoreCompileInputs.cache
 D:\Antonín Štolfa\Programování\C#\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol metody v Csharp.exe
 D:\Antonín Štolfa\Programování\C#\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol metody v Csharp.pdb
+C:\Users\Antonín Štolfa\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\bin\Debug\Úkol metody v Csharp.exe.config
+C:\Users\Antonín Štolfa\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\bin\Debug\Úkol metody v Csharp.exe
+C:\Users\Antonín Štolfa\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\bin\Debug\Úkol metody v Csharp.pdb
+C:\Users\Antonín Štolfa\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol metody v Csharp.csproj.AssemblyReference.cache
+C:\Users\Antonín Štolfa\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol_metody_v_Csharp.Form1.resources
+C:\Users\Antonín Štolfa\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol_metody_v_Csharp.Properties.Resources.resources
+C:\Users\Antonín Štolfa\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol metody v Csharp.csproj.GenerateResource.cache
+C:\Users\Antonín Štolfa\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol metody v Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Antonín Štolfa\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol metody v Csharp.exe
+C:\Users\Antonín Štolfa\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol metody v Csharp.pdb
