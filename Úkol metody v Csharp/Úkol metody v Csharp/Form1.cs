@@ -48,15 +48,21 @@ namespace Úkol_metody_v_Csharp
             button3.ForeColor = Color.Gold;
         }
 
-        bool JePrvocislo(int vstup)
+        bool JePrvocislo(int vstup, int pocetDelitelu, int delitel)
         {
-            if (vstup % 2 != 0)
+            if (vstup % delitel != 0)
+            {
+                pocetDelitelu++;
+                deltel++;
+                if(pocetDelitelu>2)
+                {
+                    return false;
+                    break;
+                }
+            }
+            if(pocetDelitelu<=2)
             {
                 return true;
-            }
-            else
-            {
-                return false;
             }
         }
 
@@ -77,8 +83,9 @@ namespace Úkol_metody_v_Csharp
 
         private void button1_Click(object sender, EventArgs e)
         {
+        int pocetDelitelu = 0,delitel = 1;
             int vstup = (int)numericUpDown1.Value;
-            odpoved.Text = String.Format("Tohle číslo {0} prvočíslo!", JePrvocislo(vstup) ? "je" : "není");
+            odpoved.Text = String.Format("Tohle číslo {0} prvočíslo!", JePrvocislo(vstup,pocetDelitelu,delitel) ? "je" : "není");
         }
 
         private void button3_Click(object sender, EventArgs e)
