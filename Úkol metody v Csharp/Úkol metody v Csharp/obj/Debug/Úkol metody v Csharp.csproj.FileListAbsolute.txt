@@ -18,3 +18,13 @@ C:\Users\Antonín Štolfa\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol m
 C:\Users\Antonín Štolfa\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol metody v Csharp.csproj.CoreCompileInputs.cache
 C:\Users\Antonín Štolfa\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol metody v Csharp.exe
 C:\Users\Antonín Štolfa\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol metody v Csharp.pdb
+C:\Users\Nadupaná mašina\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol metody v Csharp.csproj.AssemblyReference.cache
+C:\Users\Nadupaná mašina\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol_metody_v_Csharp.Form1.resources
+C:\Users\Nadupaná mašina\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol_metody_v_Csharp.Properties.Resources.resources
+C:\Users\Nadupaná mašina\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol metody v Csharp.csproj.GenerateResource.cache
+C:\Users\Nadupaná mašina\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol metody v Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Nadupaná mašina\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol metody v Csharp.exe
+C:\Users\Nadupaná mašina\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\obj\Debug\Úkol metody v Csharp.pdb
+C:\Users\Nadupaná mašina\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\bin\Debug\Úkol metody v Csharp.exe.config
+C:\Users\Nadupaná mašina\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\bin\Debug\Úkol metody v Csharp.exe
+C:\Users\Nadupaná mašina\Source\Repos\Ukol-metody\Úkol metody v Csharp\Úkol metody v Csharp\bin\Debug\Úkol metody v Csharp.pdb
